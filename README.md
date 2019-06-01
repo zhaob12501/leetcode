@@ -1,3 +1,4 @@
-# leetcode
+# lintcode
 
-leetcode 刷题
+lintcode 刷题
+> <https://www.lintcode.com/>
